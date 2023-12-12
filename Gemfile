@@ -25,6 +25,14 @@ gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
+gem 'grape'
+gem 'hashie_rails'
+gem 'grape'
+
+gem 'grape-entity'
+
+gem 'grape_on_rails_routes' #Easily build RESTful APIs with Rack applications such as rails and sinatra
+
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"

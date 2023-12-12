@@ -1,0 +1,16 @@
+current directory: /home/alice/code/alice-slgr/technical-test/vendor/bundle/ruby/3.1.0/gems/debug-1.9.0/ext/debug
+/home/alice/.rbenv/versions/3.1.2/bin/ruby -I /home/alice/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20231212-192919-ozgmuo.rb extconf.rb
+creating Makefile
+
+current directory: /home/alice/code/alice-slgr/technical-test/vendor/bundle/ruby/3.1.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/alice/code/alice-slgr/technical-test/vendor/bundle/ruby/3.1.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/alice/code/alice-slgr/technical-test/vendor/bundle/ruby/3.1.0/gems/debug-1.9.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20231212-192919-jq08gv/debug
